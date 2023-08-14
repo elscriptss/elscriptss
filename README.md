@@ -1,16 +1,23 @@
-### Hi there 👋
+## Прив, я нуб ахк разраб :wave:
 
-<!--
-**ElvisFujiwaraED/ElvisFujiwaraED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/2q7BxGb/4134-dumb.gif">
+    <img align="right" width="%" src="https://i.ibb.co/2q7BxGb/4134-dumb.gif">
+</picture>
 
-Here are some ideas to get you started:
+Кароч я знаю ток ахк я фанат ахк, а зачем другие ЯП блин есть ахк логично же.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+смотри какой крутой тип справа это тип я
+
+ура с др
+
+
+## :bar_chart: Бро смотри, я же говорю ток на ахк пишу
+
+<!--START_SECTION:waka-->
+
+```txt
+AutoHotkey   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100 %
+```
+
+<!--END_SECTION:waka-->
